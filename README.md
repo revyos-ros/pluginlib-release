@@ -1,3 +1,26 @@
+## pluginlib (jazzy) - 5.4.2-3
+
+The packages in the `pluginlib` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy pluginlib --override-release-repository-push-url git@github.com:revyos-ros/pluginlib-release.git` on `Thu, 13 Jun 2024 04:32:52 -0000`
+
+The `pluginlib` package was released.
+
+Version of package(s) in repository `pluginlib`:
+
+- upstream repository: https://github.com/ros/pluginlib.git
+- release repository: https://github.com/revyos-ros/pluginlib-release.git
+- rosdistro version: `5.4.2-2`
+- old version: `5.4.2-2`
+- new version: `5.4.2-3`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## pluginlib (rolling) - 5.5.0-1
 
 The packages in the `pluginlib` repository were released into the `rolling` distro by running `/usr/bin/bloom-release pluginlib --rosdistro rolling --non-interactive` on `Fri, 26 Apr 2024 14:35:30 -0000`
